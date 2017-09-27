@@ -63,7 +63,7 @@ SSL的实现方式，公共的相机给机器人眼睛的功能，策略机分�
 
 ![FlatKick](https://src-ssl.github.io/assets/FlatKick.gif)  
 
-![FlatKick1](https://src-ssl.github.io/assets/FlatKick1.gif)  
+![FlatKick1](https://src-ssl.github.io/assets/FlatKick+.gif)  
 
 挑射  
 
