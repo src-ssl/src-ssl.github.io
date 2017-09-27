@@ -6,9 +6,10 @@ tags: SRC, RoboCup, SJTU, Seer Robotics
 # 上海交通大学 Robocup 小型组招新
 ## Robocup介绍
 #### 一、什么是Robocup？
-![RobocupLogo]({{ site.url }}/assests/RobocuopLogo.png)
-  >RoboCup is an international scientific initiative with the goal to advance the state of the art of intelligent robots. When established in 1997, the original mission was to field a team of robots capable of winning against the human soccer World Cup champions by 2050.
-  >简单的理解就是[Robot World Cup](http://www.robocup.org/)，足球机器人世界杯。机器人足球世界杯通俗的解释就是让机器人像人一样的全自动踢足球。Robocup是学术类型的科技活动，不设立赛事奖金。全球唯一合作伙伴IEEE Robotics & Automation Society.
+![structure]({{ site.url }}/assets/structure.PNG)  
+![RobocupLogo]({{ site.url }}/assests/RobocuopLogo.png)  
+>RoboCup is an international scientific initiative with the goal to advance the state of the art of intelligent robots. When established in 1997, the original mission was to field a team of robots capable of winning against the human soccer World Cup champions by 2050.  
+>简单的理解就是[Robot World Cup](http://www.robocup.org/)，足球机器人世界杯。机器人足球世界杯通俗的解释就是让机器人像人一样的全自动踢足球。Robocup是学术类型的科技活动，不设立赛事奖金。全球唯一合作伙伴IEEE Robotics & Automation Society.
 #### 二、Robocup历史背景
 ![Object]({{ site.url }}/assests/Object.jpg)
 【Object.jpg】
@@ -16,9 +17,9 @@ tags: SRC, RoboCup, SJTU, Seer Robotics
 
 #### 三、Robocup目标
 ![Standard]({{ site.url }}/assests/Standard.png)  
->By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup. 
-##Small Size League
-![Roborun]({{ site.url }}/assests/Roborun.png)  
+>By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup.   
+##Small Size League  
+![Roborun]({{ site.url }}/assests/Roborun.png)    
 SmallSizeLeague（SSL、小型组）是Robocup足球机器人比赛下设的五种比赛之一。专注于攻克在动态环境下多机器人合作控制的难题。
 当今SSL比赛中，二队各自有6机器人运动员，机器人必须要求满足F180Rlue：高不超过180mm直径不超过150mm。在一个96的场地上踢一个橘红色的高尔夫球。
 ![SSL]({{ site.url }}/assests/SSL.png)  
