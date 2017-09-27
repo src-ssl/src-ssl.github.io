@@ -23,9 +23,9 @@ RoboCup的初衷是让在2050年左右机器人足球的世界杯冠军和人类
 
 我们重新思考一场足球比赛的层次结构。  
 
-![RoboRun](https://src-ssl.github.io/assets/Roborun.gif)  
+![RoboRun](https://src-ssl.github.io/assets/RoboRun.png)  
 
-![Global](https://src-ssl.github.io/assets/Global.gif)  
+![Global](https://src-ssl.github.io/assets/Global.png)  
 
 这个就是一场足球比赛的过程  
 
