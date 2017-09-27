@@ -124,3 +124,15 @@ Skill&Agent
 
 ## One more thing
 写代码时候想的或者仿真上跑的效果和实车跑的距离与你和梦中女神的现实距离是差不多的！
+
+
+**简历投送**：srcssl@163.com  
+* [*招新*](https://src-ssl.github.io/2017/09/26/SJTU-SRC-RoboCup.html)
+
+
+----------
+
+### 相关链接
+* [*Robocup*](http://www.robocup.org/)
+* [*RobocupSSLWiki*](http://wiki.robocup.org/Small_Size_League)
+* [*SRC*](https://src-ssl.github.io/)
