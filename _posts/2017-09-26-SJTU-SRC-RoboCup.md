@@ -21,7 +21,7 @@ tags: SRC, RoboCup, SJTU, Seer Robotics
 >By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup.   
 
 ## Small Size League
-![Roborun]({{ site.url }}/assets/Roborun.png)   
+![Roborun]({{ site.url }}/assets/RoboRun.png)   
 
 SmallSizeLeague（SSL、小型组）是Robocup足球机器人比赛下设的五种比赛之一。专注于攻克在动态环境下多机器人合作控制的难题。
 当今SSL比赛中，二队各自有6机器人运动员，机器人必须要求满足F180Rlue：高不超过180mm直径不超过150mm。在一个96的场地上踢一个橘红色的高尔夫球。  
