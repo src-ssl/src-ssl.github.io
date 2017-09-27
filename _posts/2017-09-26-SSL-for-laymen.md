@@ -52,9 +52,6 @@ SSL的实现方式，公共的相机给机器人眼睛的功能，策略机分�
 
 ![Dribble](https://src-ssl.github.io/assets/Dribble.gif)  
 
-电控  
-
-![Electronic](https://src-ssl.github.io/assets/Electronic.gif)  
 
 运动控制  
 
